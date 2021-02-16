@@ -1,1 +1,1 @@
-Power BI pprojects folder
+Power BI projects
